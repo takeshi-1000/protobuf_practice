@@ -1,0 +1,6 @@
+module Pods_protobuf_practice {
+  umbrella header "Pods-protobuf_practice-umbrella.h"
+
+  export *
+  module * { export * }
+}

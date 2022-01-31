@@ -1,0 +1,5 @@
+target 'protobuf_practice' do
+  platform :ios, ’14.0’
+
+  pod 'SwiftProtobuf', '~> 1.0'
+end
